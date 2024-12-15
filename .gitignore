@@ -1,3 +1,11 @@
+# Repository createdfiles
+data/raw/*
+!data/raw/.gitkeep
+
+data/wikivoyage/*
+!data/wikivoyage/.gitkeep
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
